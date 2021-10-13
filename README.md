@@ -10,10 +10,11 @@
 Bridging the gap between technologies like open-source libraries, web applications, and modeling software to create more advanced, multifunctional, and innovative frameworks was our initial idea. It was an interesting challenge to see how far we could go during these two days of the HMC-Hackathon 2021. We decided to use different open-source ML algorithms to train hand-drawings, emotions, and sounds for achieving different interactive results, from geometric shapes to physical reactions databases.
 Let us pull the common grounds and evolve with the process is what made us bring our project where we intervene various levels in the workflow (from concept to management) and create constant feedback loops from the user to designer.
 
-### 1.     Scribble:
+ 
+### 1.     Scribble: [Check out Web Interface](https://mistrymm7.github.io/playful-design-hackers-hmc-hackathon/sketch-to-geometry-web-interface-client/)
 If we say you draw a basic sketch and our mock-up generates 3D geometry for you. Does it excite you? It should be a symbiotic process where the software or web tool is adaptive to the style of working of the designer and can also navigate the interface conveniently. In that context, our idea was to develop a scribbler or sketcher for designers who may not be tech-savvy or prefer hand-sketched designs. Workflow shouldn’t become a hindrance to their creative thoughts. The requirement from the user is to draw primitive sketches and customize the design according to the context using sliders or other input methods. Subsequently, with the use of web sockets our prototype feeds required actions into the rhino-grasshopper interface to generate the results. It doesn’t stop at geometry creation but also gives you a window to analyze your design like Daylight analysis, Radiation, etc.
 
-### 2.     ML sound recognition:
+### 2.     ML sound recognition: [Check out Web Interface](https://mistrymm7.github.io/playful-design-hackers-hmc-hackathon/speech-controlled-arduino-lighting-web-interface-client/)
 If we say you speak and we manage various functions in the building for you, does it excite you? Interactive methods between the built environment and aged/disabled users with the purpose of independence in every private and public area. Therefore, we trained a machine learning model to receive a physical reaction that is responsive to sound. In our model, we made light fixtures to respond to our speech and execute functions like change color, functionality off-on, etc.
 
 
